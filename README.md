@@ -1,9 +1,3 @@
-
-
-<!-- Replace this banner with your own or remove it -->
-<!-- ![Header](https://via.placeholder.com/800x200/0066cc/ffffff?text=Welcome+to+my+GitHub) -->
-
-
 # Jason Carter – README
 
 I'm Jason (jcar). This README is an attempt to give you a look under the hood—how I think, what I value, how I lead, and how I show up for you and the team. It's a living doc. Just like me, it’s always in motion.
@@ -17,7 +11,7 @@ I lead technical talent and build engineering capability at **Valent Partners**,
 ### My Mission:
 - Cultivate **technical depth** across the firm
 - Bring **clarity and traction** to ambiguous challenges
-- Build **systems that scale**—both human and technical
+- Build **systems that scale**, both human and technical
 - Elevate our **thinking, quality, and outcomes**
 - Protect space for people to do **great work**
 
@@ -29,7 +23,7 @@ I lead technical talent and build engineering capability at **Valent Partners**,
   I don’t micromanage. I trust high-agency people who take initiative, think critically, and finish what they start.
 
 - **Clarity Wins**  
-  Whether it’s an architecture diagram, a meeting, or a strategy—clarity cuts through noise. I crave and create it.
+  Whether it’s an architecture diagram, a meeting, or a strategy, clarity cuts through noise. I crave and create it.
 
 - **Depth Over Noise**  
   I admire those who go deep in their craft, can defend their reasoning, and know when to challenge assumptions.
@@ -116,20 +110,21 @@ I think a lot. I write to understand. I fish to quiet the mind. I hike to recali
 ## When I’m Not Working
 
 You’ll find me:
+- Spending time with my kids, exploring outdoors, playings games, being silly together
 - Fishing remote creeks from and backwaters from a fully-rigged kayak
 - Backpacking through wild Texas and Colorado trails
-- Competing in just about anything - discgolf, paintball, fishing, boxing, Texas 42
+- Competing in just about anything - discgolf, chess, paintball, fishing, boxing, Texas 42
 - Cooking over fire, reading science fiction, or training my Brittany pup
 
 ---
 
 ## Closing Thought
 
-I believe in fierce clarity, deep thinking, good people, and meaningful work. My job is to clear the path so we can build something exceptional—together.
+I believe in fierce clarity, deep thinking, good people, and meaningful work. My job is to clear the path so we can build something exceptional together.
 
 Let’s get after it.
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always interested in connecting with fellow developers and collaborating on interesting projects!
 
