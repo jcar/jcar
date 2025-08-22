@@ -1,6 +1,6 @@
 # Jason Carter – README
 
-I'm Jason (jcar). This README is an attempt to give you a look under the hood—how I think, what I value, how I lead, and how I show up for you and the team. It's a living doc. Just like me, it’s always in motion.
+I'm Jason (jcar). This README is an attempt to give you a look under the hood - how I think, what I value, how I lead, and how I show up for you and the team. It's a living doc. Just like me, it’s always in motion.
 
 ---
 
