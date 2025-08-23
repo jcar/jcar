@@ -115,6 +115,7 @@ You’ll find me:
 - Backpacking through wild Texas and Colorado trails
 - Competing in just about anything - discgolf, chess, paintball, fishing, boxing, Texas 42
 - Cooking over fire, reading science fiction, or training my Brittany pup
+- Watching sports - hockey, baseball, football, basketball, gold, disc golf, professional bass fishing, olympics, road/mtb cycling, BMX, anything RedBull, boxing, ufc
 
 ---
 
