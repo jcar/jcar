@@ -61,7 +61,7 @@ I lead technical talent and build engineering capability at **Valent Partners**,
 ## What I Expect From You
 
 - **Own Your Craft**  
-  Be curious, be intentional, and invest in your skill set. Whether code, client service, or leadership—mastery matters.
+  Be curious, be intentional, and invest in your skill set. Whether code, client service, or leadership — mastery matters.
 
 - **Act With Integrity**  
   Say what you mean. Follow through. Protect trust—internally and externally.
@@ -83,10 +83,10 @@ I lead technical talent and build engineering capability at **Valent Partners**,
 ## My Quirks (And How to Work With Me)
 
 - I default to **thinking mode**, not feeling mode. I try to check for impact, but feel free to bring it to my attention if I miss something.
-- I’m intensely **protective of my calendar**—it’s how I create space to think and lead.
+- I’m intensely **protective of my calendar**, it’s how I create space to think and lead.
 - I value **concise, direct communication**. If it can be a bulleted Slack message, it should be.
 - I don’t need pleasantries or preamble. Say the thing.
-- I’ll push for **“better” even when “good enough” is acceptable**—this isn’t always necessary, so feel free to say, “We’re past the ROI line.”
+- I’ll push for **“better” even when “good enough” is acceptable**, this isn’t always necessary, so feel free to say, “We’re past the ROI line.”
 
 ---
 
@@ -95,7 +95,7 @@ I lead technical talent and build engineering capability at **Valent Partners**,
 - **Core Hours**: ~8:00am–5:00pm CST. I’m occasionally asynchronous, but I try to protect team time.
 - **Communication Preference**: Slack or text. Call if it’s urgent.
 - **Meetings**: Come with purpose, leave with action. Otherwise, cancel it.
-- **Availability**: I’m here for you. If you need me, say so—don’t wait for a slot to open up.
+- **Availability**: I’m here for you. If you need me, say so, don’t wait for a slot to open up.
 
 ---
 
